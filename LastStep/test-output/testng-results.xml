@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="127262" started-at="2016-07-14T10:13:28Z" finished-at="2016-07-14T10:15:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="127262" started-at="2016-07-14T10:13:28Z" finished-at="2016-07-14T10:15:35Z">
+      <class name="lastPkg.LastClass">
+        <test-method status="PASS" signature="betmet()[pri:0, instance:lastPkg.LastClass@eff760]" name="betmet" is-config="true" duration-ms="14022" started-at="2016-07-14T15:43:28Z" finished-at="2016-07-14T15:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- betmet -->
+        <test-method status="PASS" signature="lastMet()[pri:0, instance:lastPkg.LastClass@eff760]" name="lastMet" duration-ms="113228" started-at="2016-07-14T15:43:42Z" finished-at="2016-07-14T15:45:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastMet -->
+      </class> <!-- lastPkg.LastClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
